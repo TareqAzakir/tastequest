@@ -1,4 +1,5 @@
 import spacy
+import numpy as np
 from nltk.corpus import stopwords
 from nltk.data import find
 
@@ -9,18 +10,19 @@ except:
     nltk.download('stopwords')
 
 stop_words = set(stopwords.words('english'))
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load('en_core_web_sm')
 
 def preprocess_text(text):
     doc = nlp(text.lower())
-    return ' '.join([token.text for token in doc if token.text not in stop_words and token.is_alpha])
+    tokens = [token.text for token in doc if token.text not in stop_words and token.is_alpha]
+    return ' '.join(tokens)
 
 def get_user_preference(prompt, valid_options):
     while True:
         response = input(prompt).strip().lower()
-        response = preprocess_text(response)
-        if response in valid_options:
-            return response
+        preprocessed = preprocess_text(response)
+        if preprocessed in valid_options:
+            return preprocessed
         print(f"Invalid choice. Please choose from {', '.join(valid_options)}.")
 
 def get_user_preferences():
@@ -30,7 +32,7 @@ def get_user_preferences():
 
     while True:
         try:
-            time = int(input("How much time do you have to cook? (in minutes) ").strip())
+            time = int(input("How much time do you have to cook? (in minutes) "))
             if time > 0:
                 preferences['time'] = time
                 break
