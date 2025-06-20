@@ -1,0 +1,944 @@
+{
+    "vegan": {
+        "spicy": [
+            {
+                "name": "Vegan Spicy Recipe 1",
+                "ingredients": [
+                    "tomatoes",
+                    "fish",
+                    "chili",
+                    "tofu"
+                ],
+                "details": "A delicious vegan spicy dish.",
+                "cuisine": "Mexican",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegan Spicy Recipe 2",
+                "ingredients": [
+                    "olive oil",
+                    "beef",
+                    "soy sauce",
+                    "beans"
+                ],
+                "details": "A delicious vegan spicy dish.",
+                "cuisine": "Italian",
+                "instructions": "Simmer for 30 minutes on low flame."
+            },
+            {
+                "name": "Vegan Spicy Recipe 3",
+                "ingredients": [
+                    "garlic",
+                    "chicken",
+                    "fish",
+                    "pepper"
+                ],
+                "details": "A delicious vegan spicy dish.",
+                "cuisine": "Italian",
+                "instructions": "Simmer for 30 minutes on low flame."
+            },
+            {
+                "name": "Vegan Spicy Recipe 4",
+                "ingredients": [
+                    "chili",
+                    "tomatoes",
+                    "fish",
+                    "chicken"
+                ],
+                "details": "A delicious vegan spicy dish.",
+                "cuisine": "American",
+                "instructions": "Bake at 180\u00b0C for 25 minutes."
+            },
+            {
+                "name": "Vegan Spicy Recipe 5",
+                "ingredients": [
+                    "garlic",
+                    "olive oil",
+                    "soy sauce",
+                    "beans"
+                ],
+                "details": "A delicious vegan spicy dish.",
+                "cuisine": "Indian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            }
+        ],
+        "sweet": [
+            {
+                "name": "Vegan Sweet Recipe 1",
+                "ingredients": [
+                    "garlic",
+                    "beans",
+                    "chili",
+                    "pepper"
+                ],
+                "details": "A delicious vegan sweet dish.",
+                "cuisine": "American",
+                "instructions": "Bake at 180\u00b0C for 25 minutes."
+            },
+            {
+                "name": "Vegan Sweet Recipe 2",
+                "ingredients": [
+                    "rice",
+                    "tofu",
+                    "beef",
+                    "tomatoes"
+                ],
+                "details": "A delicious vegan sweet dish.",
+                "cuisine": "Indian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegan Sweet Recipe 3",
+                "ingredients": [
+                    "pepper",
+                    "beef",
+                    "garlic",
+                    "tomatoes"
+                ],
+                "details": "A delicious vegan sweet dish.",
+                "cuisine": "Middle Eastern",
+                "instructions": "Mix all ingredients and cook for 20 minutes."
+            },
+            {
+                "name": "Vegan Sweet Recipe 4",
+                "ingredients": [
+                    "beans",
+                    "chili",
+                    "garlic",
+                    "tomatoes"
+                ],
+                "details": "A delicious vegan sweet dish.",
+                "cuisine": "Mexican",
+                "instructions": "Simmer for 30 minutes on low flame."
+            },
+            {
+                "name": "Vegan Sweet Recipe 5",
+                "ingredients": [
+                    "beef",
+                    "tomatoes",
+                    "chili",
+                    "garlic"
+                ],
+                "details": "A delicious vegan sweet dish.",
+                "cuisine": "Mexican",
+                "instructions": "Grill for 15 minutes on medium heat."
+            }
+        ],
+        "savory": [
+            {
+                "name": "Vegan Savory Recipe 1",
+                "ingredients": [
+                    "olive oil",
+                    "pepper",
+                    "soy sauce",
+                    "chili"
+                ],
+                "details": "A delicious vegan savory dish.",
+                "cuisine": "Middle Eastern",
+                "instructions": "Bake at 180\u00b0C for 25 minutes."
+            },
+            {
+                "name": "Vegan Savory Recipe 2",
+                "ingredients": [
+                    "tofu",
+                    "rice",
+                    "olive oil",
+                    "chicken"
+                ],
+                "details": "A delicious vegan savory dish.",
+                "cuisine": "Indian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegan Savory Recipe 3",
+                "ingredients": [
+                    "beans",
+                    "chili",
+                    "tofu",
+                    "chicken"
+                ],
+                "details": "A delicious vegan savory dish.",
+                "cuisine": "Italian",
+                "instructions": "Mix all ingredients and cook for 20 minutes."
+            },
+            {
+                "name": "Vegan Savory Recipe 4",
+                "ingredients": [
+                    "rice",
+                    "sugar",
+                    "soy sauce",
+                    "chicken"
+                ],
+                "details": "A delicious vegan savory dish.",
+                "cuisine": "Middle Eastern",
+                "instructions": "Mix all ingredients and cook for 20 minutes."
+            },
+            {
+                "name": "Vegan Savory Recipe 5",
+                "ingredients": [
+                    "tomatoes",
+                    "olive oil",
+                    "chicken",
+                    "garlic"
+                ],
+                "details": "A delicious vegan savory dish.",
+                "cuisine": "Middle Eastern",
+                "instructions": "Bake at 180\u00b0C for 25 minutes."
+            }
+        ]
+    },
+    "vegetarian": {
+        "spicy": [
+            {
+                "name": "Vegetarian Spicy Recipe 1",
+                "ingredients": [
+                    "olive oil",
+                    "soy sauce",
+                    "beans",
+                    "chicken"
+                ],
+                "details": "A delicious vegetarian spicy dish.",
+                "cuisine": "Middle Eastern",
+                "instructions": "Bake at 180\u00b0C for 25 minutes."
+            },
+            {
+                "name": "Vegetarian Spicy Recipe 2",
+                "ingredients": [
+                    "soy sauce",
+                    "beans",
+                    "pepper",
+                    "tofu"
+                ],
+                "details": "A delicious vegetarian spicy dish.",
+                "cuisine": "Japanese",
+                "instructions": "Mix all ingredients and cook for 20 minutes."
+            },
+            {
+                "name": "Vegetarian Spicy Recipe 3",
+                "ingredients": [
+                    "tomatoes",
+                    "beef",
+                    "garlic",
+                    "rice"
+                ],
+                "details": "A delicious vegetarian spicy dish.",
+                "cuisine": "Japanese",
+                "instructions": "Mix all ingredients and cook for 20 minutes."
+            },
+            {
+                "name": "Vegetarian Spicy Recipe 4",
+                "ingredients": [
+                    "olive oil",
+                    "rice",
+                    "beef",
+                    "tofu"
+                ],
+                "details": "A delicious vegetarian spicy dish.",
+                "cuisine": "Mexican",
+                "instructions": "Stir-fry in a wok for 10 minutes."
+            },
+            {
+                "name": "Vegetarian Spicy Recipe 5",
+                "ingredients": [
+                    "sugar",
+                    "chicken",
+                    "onions",
+                    "pepper"
+                ],
+                "details": "A delicious vegetarian spicy dish.",
+                "cuisine": "Middle Eastern",
+                "instructions": "Grill for 15 minutes on medium heat."
+            }
+        ],
+        "sweet": [
+            {
+                "name": "Vegetarian Sweet Recipe 1",
+                "ingredients": [
+                    "rice",
+                    "fish",
+                    "beef",
+                    "tomatoes"
+                ],
+                "details": "A delicious vegetarian sweet dish.",
+                "cuisine": "Indian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegetarian Sweet Recipe 2",
+                "ingredients": [
+                    "chili",
+                    "soy sauce",
+                    "tofu",
+                    "tomatoes"
+                ],
+                "details": "A delicious vegetarian sweet dish.",
+                "cuisine": "Mexican",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegetarian Sweet Recipe 3",
+                "ingredients": [
+                    "beans",
+                    "chili",
+                    "pepper",
+                    "chicken"
+                ],
+                "details": "A delicious vegetarian sweet dish.",
+                "cuisine": "Mexican",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegetarian Sweet Recipe 4",
+                "ingredients": [
+                    "olive oil",
+                    "beans",
+                    "fish",
+                    "tomatoes"
+                ],
+                "details": "A delicious vegetarian sweet dish.",
+                "cuisine": "Indian",
+                "instructions": "Bake at 180\u00b0C for 25 minutes."
+            },
+            {
+                "name": "Vegetarian Sweet Recipe 5",
+                "ingredients": [
+                    "soy sauce",
+                    "beef",
+                    "rice",
+                    "pepper"
+                ],
+                "details": "A delicious vegetarian sweet dish.",
+                "cuisine": "Italian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            }
+        ],
+        "savory": [
+            {
+                "name": "Vegetarian Savory Recipe 1",
+                "ingredients": [
+                    "soy sauce",
+                    "sugar",
+                    "garlic",
+                    "chili"
+                ],
+                "details": "A delicious vegetarian savory dish.",
+                "cuisine": "Italian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegetarian Savory Recipe 2",
+                "ingredients": [
+                    "rice",
+                    "chili",
+                    "pepper",
+                    "fish"
+                ],
+                "details": "A delicious vegetarian savory dish.",
+                "cuisine": "Italian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegetarian Savory Recipe 3",
+                "ingredients": [
+                    "fish",
+                    "sugar",
+                    "tomatoes",
+                    "pepper"
+                ],
+                "details": "A delicious vegetarian savory dish.",
+                "cuisine": "Indian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            },
+            {
+                "name": "Vegetarian Savory Recipe 4",
+                "ingredients": [
+                    "rice",
+                    "beef",
+                    "tomatoes",
+                    "soy sauce"
+                ],
+                "details": "A delicious vegetarian savory dish.",
+                "cuisine": "Japanese",
+                "instructions": "Mix all ingredients and cook for 20 minutes."
+            },
+            {
+                "name": "Vegetarian Savory Recipe 5",
+                "ingredients": [
+                    "tomatoes",
+                    "soy sauce",
+                    "rice",
+                    "sugar"
+                ],
+                "details": "A delicious vegetarian savory dish.",
+                "cuisine": "Indian",
+                "instructions": "Grill for 15 minutes on medium heat."
+            }
+        ]
+    },
+    "carnivore": {
+        "meat": {
+            "spicy": [
+                {
+                    "name": "Meat Spicy Recipe 1",
+                    "ingredients": [
+                        "beans",
+                        "onions",
+                        "tofu",
+                        "tomatoes"
+                    ],
+                    "details": "A delicious meat spicy dish.",
+                    "cuisine": "American",
+                    "instructions": "Simmer for 30 minutes on low flame."
+                },
+                {
+                    "name": "Meat Spicy Recipe 2",
+                    "ingredients": [
+                        "chicken",
+                        "onions",
+                        "pepper",
+                        "fish"
+                    ],
+                    "details": "A delicious meat spicy dish.",
+                    "cuisine": "Indian",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                },
+                {
+                    "name": "Meat Spicy Recipe 3",
+                    "ingredients": [
+                        "garlic",
+                        "tomatoes",
+                        "beans",
+                        "tofu"
+                    ],
+                    "details": "A delicious meat spicy dish.",
+                    "cuisine": "Indian",
+                    "instructions": "Grill for 15 minutes on medium heat."
+                },
+                {
+                    "name": "Meat Spicy Recipe 4",
+                    "ingredients": [
+                        "fish",
+                        "onions",
+                        "beef",
+                        "beans"
+                    ],
+                    "details": "A delicious meat spicy dish.",
+                    "cuisine": "Japanese",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Meat Spicy Recipe 5",
+                    "ingredients": [
+                        "onions",
+                        "beans",
+                        "soy sauce",
+                        "fish"
+                    ],
+                    "details": "A delicious meat spicy dish.",
+                    "cuisine": "American",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                }
+            ],
+            "sweet": [
+                {
+                    "name": "Meat Sweet Recipe 1",
+                    "ingredients": [
+                        "pepper",
+                        "beans",
+                        "chili",
+                        "sugar"
+                    ],
+                    "details": "A delicious meat sweet dish.",
+                    "cuisine": "Indian",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                },
+                {
+                    "name": "Meat Sweet Recipe 2",
+                    "ingredients": [
+                        "chili",
+                        "soy sauce",
+                        "garlic",
+                        "olive oil"
+                    ],
+                    "details": "A delicious meat sweet dish.",
+                    "cuisine": "Italian",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Meat Sweet Recipe 3",
+                    "ingredients": [
+                        "rice",
+                        "beef",
+                        "garlic",
+                        "beans"
+                    ],
+                    "details": "A delicious meat sweet dish.",
+                    "cuisine": "Indian",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                },
+                {
+                    "name": "Meat Sweet Recipe 4",
+                    "ingredients": [
+                        "tomatoes",
+                        "garlic",
+                        "chicken",
+                        "onions"
+                    ],
+                    "details": "A delicious meat sweet dish.",
+                    "cuisine": "Japanese",
+                    "instructions": "Simmer for 30 minutes on low flame."
+                },
+                {
+                    "name": "Meat Sweet Recipe 5",
+                    "ingredients": [
+                        "fish",
+                        "rice",
+                        "beef",
+                        "chili"
+                    ],
+                    "details": "A delicious meat sweet dish.",
+                    "cuisine": "American",
+                    "instructions": "Simmer for 30 minutes on low flame."
+                }
+            ],
+            "savory": [
+                {
+                    "name": "Meat Savory Recipe 1",
+                    "ingredients": [
+                        "sugar",
+                        "rice",
+                        "beans",
+                        "olive oil"
+                    ],
+                    "details": "A delicious meat savory dish.",
+                    "cuisine": "Middle Eastern",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                },
+                {
+                    "name": "Meat Savory Recipe 2",
+                    "ingredients": [
+                        "chili",
+                        "beans",
+                        "garlic",
+                        "onions"
+                    ],
+                    "details": "A delicious meat savory dish.",
+                    "cuisine": "Mexican",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                },
+                {
+                    "name": "Meat Savory Recipe 3",
+                    "ingredients": [
+                        "chicken",
+                        "tofu",
+                        "sugar",
+                        "garlic"
+                    ],
+                    "details": "A delicious meat savory dish.",
+                    "cuisine": "Middle Eastern",
+                    "instructions": "Simmer for 30 minutes on low flame."
+                },
+                {
+                    "name": "Meat Savory Recipe 4",
+                    "ingredients": [
+                        "beef",
+                        "tomatoes",
+                        "pepper",
+                        "garlic"
+                    ],
+                    "details": "A delicious meat savory dish.",
+                    "cuisine": "Middle Eastern",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                },
+                {
+                    "name": "Meat Savory Recipe 5",
+                    "ingredients": [
+                        "chili",
+                        "soy sauce",
+                        "pepper",
+                        "sugar"
+                    ],
+                    "details": "A delicious meat savory dish.",
+                    "cuisine": "American",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                }
+            ]
+        },
+        "chicken": {
+            "spicy": [
+                {
+                    "name": "Chicken Spicy Recipe 1",
+                    "ingredients": [
+                        "sugar",
+                        "soy sauce",
+                        "fish",
+                        "garlic"
+                    ],
+                    "details": "A delicious chicken spicy dish.",
+                    "cuisine": "Middle Eastern",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                },
+                {
+                    "name": "Chicken Spicy Recipe 2",
+                    "ingredients": [
+                        "olive oil",
+                        "chicken",
+                        "fish",
+                        "tofu"
+                    ],
+                    "details": "A delicious chicken spicy dish.",
+                    "cuisine": "Japanese",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                },
+                {
+                    "name": "Chicken Spicy Recipe 3",
+                    "ingredients": [
+                        "chili",
+                        "tofu",
+                        "tomatoes",
+                        "beans"
+                    ],
+                    "details": "A delicious chicken spicy dish.",
+                    "cuisine": "American",
+                    "instructions": "Grill for 15 minutes on medium heat."
+                },
+                {
+                    "name": "Chicken Spicy Recipe 4",
+                    "ingredients": [
+                        "fish",
+                        "tofu",
+                        "olive oil",
+                        "rice"
+                    ],
+                    "details": "A delicious chicken spicy dish.",
+                    "cuisine": "American",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Chicken Spicy Recipe 5",
+                    "ingredients": [
+                        "onions",
+                        "garlic",
+                        "tofu",
+                        "tomatoes"
+                    ],
+                    "details": "A delicious chicken spicy dish.",
+                    "cuisine": "American",
+                    "instructions": "Grill for 15 minutes on medium heat."
+                }
+            ],
+            "sweet": [
+                {
+                    "name": "Chicken Sweet Recipe 1",
+                    "ingredients": [
+                        "rice",
+                        "tomatoes",
+                        "beef",
+                        "chicken"
+                    ],
+                    "details": "A delicious chicken sweet dish.",
+                    "cuisine": "American",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Chicken Sweet Recipe 2",
+                    "ingredients": [
+                        "chicken",
+                        "tomatoes",
+                        "garlic",
+                        "rice"
+                    ],
+                    "details": "A delicious chicken sweet dish.",
+                    "cuisine": "Japanese",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Chicken Sweet Recipe 3",
+                    "ingredients": [
+                        "tofu",
+                        "onions",
+                        "soy sauce",
+                        "chili"
+                    ],
+                    "details": "A delicious chicken sweet dish.",
+                    "cuisine": "Italian",
+                    "instructions": "Grill for 15 minutes on medium heat."
+                },
+                {
+                    "name": "Chicken Sweet Recipe 4",
+                    "ingredients": [
+                        "rice",
+                        "beef",
+                        "garlic",
+                        "sugar"
+                    ],
+                    "details": "A delicious chicken sweet dish.",
+                    "cuisine": "Italian",
+                    "instructions": "Simmer for 30 minutes on low flame."
+                },
+                {
+                    "name": "Chicken Sweet Recipe 5",
+                    "ingredients": [
+                        "tofu",
+                        "pepper",
+                        "rice",
+                        "olive oil"
+                    ],
+                    "details": "A delicious chicken sweet dish.",
+                    "cuisine": "Japanese",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                }
+            ],
+            "savory": [
+                {
+                    "name": "Chicken Savory Recipe 1",
+                    "ingredients": [
+                        "chili",
+                        "sugar",
+                        "rice",
+                        "beef"
+                    ],
+                    "details": "A delicious chicken savory dish.",
+                    "cuisine": "Mexican",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Chicken Savory Recipe 2",
+                    "ingredients": [
+                        "beans",
+                        "olive oil",
+                        "fish",
+                        "garlic"
+                    ],
+                    "details": "A delicious chicken savory dish.",
+                    "cuisine": "Indian",
+                    "instructions": "Grill for 15 minutes on medium heat."
+                },
+                {
+                    "name": "Chicken Savory Recipe 3",
+                    "ingredients": [
+                        "sugar",
+                        "pepper",
+                        "beans",
+                        "chili"
+                    ],
+                    "details": "A delicious chicken savory dish.",
+                    "cuisine": "Mexican",
+                    "instructions": "Simmer for 30 minutes on low flame."
+                },
+                {
+                    "name": "Chicken Savory Recipe 4",
+                    "ingredients": [
+                        "chili",
+                        "chicken",
+                        "tomatoes",
+                        "rice"
+                    ],
+                    "details": "A delicious chicken savory dish.",
+                    "cuisine": "Mexican",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                },
+                {
+                    "name": "Chicken Savory Recipe 5",
+                    "ingredients": [
+                        "chili",
+                        "chicken",
+                        "onions",
+                        "rice"
+                    ],
+                    "details": "A delicious chicken savory dish.",
+                    "cuisine": "American",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                }
+            ]
+        },
+        "fish": {
+            "spicy": [
+                {
+                    "name": "Fish Spicy Recipe 1",
+                    "ingredients": [
+                        "beef",
+                        "rice",
+                        "chicken",
+                        "tomatoes"
+                    ],
+                    "details": "A delicious fish spicy dish.",
+                    "cuisine": "Japanese",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Fish Spicy Recipe 2",
+                    "ingredients": [
+                        "garlic",
+                        "sugar",
+                        "olive oil",
+                        "beans"
+                    ],
+                    "details": "A delicious fish spicy dish.",
+                    "cuisine": "Indian",
+                    "instructions": "Simmer for 30 minutes on low flame."
+                },
+                {
+                    "name": "Fish Spicy Recipe 3",
+                    "ingredients": [
+                        "garlic",
+                        "soy sauce",
+                        "onions",
+                        "chili"
+                    ],
+                    "details": "A delicious fish spicy dish.",
+                    "cuisine": "American",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                },
+                {
+                    "name": "Fish Spicy Recipe 4",
+                    "ingredients": [
+                        "tomatoes",
+                        "beans",
+                        "sugar",
+                        "olive oil"
+                    ],
+                    "details": "A delicious fish spicy dish.",
+                    "cuisine": "Italian",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                },
+                {
+                    "name": "Fish Spicy Recipe 5",
+                    "ingredients": [
+                        "tomatoes",
+                        "sugar",
+                        "pepper",
+                        "beef"
+                    ],
+                    "details": "A delicious fish spicy dish.",
+                    "cuisine": "Japanese",
+                    "instructions": "Simmer for 30 minutes on low flame."
+                }
+            ],
+            "sweet": [
+                {
+                    "name": "Fish Sweet Recipe 1",
+                    "ingredients": [
+                        "sugar",
+                        "garlic",
+                        "chicken",
+                        "pepper"
+                    ],
+                    "details": "A delicious fish sweet dish.",
+                    "cuisine": "Middle Eastern",
+                    "instructions": "Bake at 180\u00b0C for 25 minutes."
+                },
+                {
+                    "name": "Fish Sweet Recipe 2",
+                    "ingredients": [
+                        "beef",
+                        "chicken",
+                        "olive oil",
+                        "garlic"
+                    ],
+                    "details": "A delicious fish sweet dish.",
+                    "cuisine": "Italian",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                },
+                {
+                    "name": "Fish Sweet Recipe 3",
+                    "ingredients": [
+                        "onions",
+                        "fish",
+                        "garlic",
+                        "rice"
+                    ],
+                    "details": "A delicious fish sweet dish.",
+                    "cuisine": "Italian",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Fish Sweet Recipe 4",
+                    "ingredients": [
+                        "tomatoes",
+                        "garlic",
+                        "tofu",
+                        "beef"
+                    ],
+                    "details": "A delicious fish sweet dish.",
+                    "cuisine": "Mexican",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Fish Sweet Recipe 5",
+                    "ingredients": [
+                        "pepper",
+                        "tofu",
+                        "fish",
+                        "beans"
+                    ],
+                    "details": "A delicious fish sweet dish.",
+                    "cuisine": "Indian",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                }
+            ],
+            "savory": [
+                {
+                    "name": "Fish Savory Recipe 1",
+                    "ingredients": [
+                        "rice",
+                        "sugar",
+                        "chili",
+                        "tofu"
+                    ],
+                    "details": "A delicious fish savory dish.",
+                    "cuisine": "Mexican",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Fish Savory Recipe 2",
+                    "ingredients": [
+                        "sugar",
+                        "beans",
+                        "rice",
+                        "fish"
+                    ],
+                    "details": "A delicious fish savory dish.",
+                    "cuisine": "American",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                },
+                {
+                    "name": "Fish Savory Recipe 3",
+                    "ingredients": [
+                        "sugar",
+                        "rice",
+                        "chicken",
+                        "fish"
+                    ],
+                    "details": "A delicious fish savory dish.",
+                    "cuisine": "American",
+                    "instructions": "Mix all ingredients and cook for 20 minutes."
+                },
+                {
+                    "name": "Fish Savory Recipe 4",
+                    "ingredients": [
+                        "chili",
+                        "tomatoes",
+                        "soy sauce",
+                        "tofu"
+                    ],
+                    "details": "A delicious fish savory dish.",
+                    "cuisine": "Middle Eastern",
+                    "instructions": "Stir-fry in a wok for 10 minutes."
+                },
+                {
+                    "name": "Fish Savory Recipe 5",
+                    "ingredients": [
+                        "pepper",
+                        "soy sauce",
+                        "rice",
+                        "onions"
+                    ],
+                    "details": "A delicious fish savory dish.",
+                    "cuisine": "Japanese",
+                    "instructions": "Grill for 15 minutes on medium heat."
+                }
+            ]
+        }
+    }
+}
